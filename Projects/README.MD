@@ -8,6 +8,6 @@
 
 
 
-##Searching for collaboration:
+## Searching for collaboration:
 --------------------------------------------------------
 `http://linktr.ee`
